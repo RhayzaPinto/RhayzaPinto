@@ -1,6 +1,6 @@
-## Olá eu sou a Rhayza Pinto, Estagiária de Engenharia de Dados na IBM!
+## Olá eu sou a Rhayza Pinto, estagiária de Engenharia de Dados na IBM!
 
-Aqui compartilho meus projetos e materias de estudo. Você vai encontrar desde o meu primeiro joguinho em python até meus atuais projetos em principalmente utilizando SQL. Estamos em eterna construção!
+Aqui compartilho meus projetos e materias de estudo. Você vai encontrar desde o meu primeiro joguinho em python até meus atuais projetos principalmente utilizando SQL. Estamos em eterna construção!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rhay-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
